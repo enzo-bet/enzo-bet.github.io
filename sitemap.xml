@@ -5,10 +5,9 @@
   <url>
     <loc>https://enzo-bet.github.io/</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
-
-</urlset>
 
   <url>
     <loc>https://enzo-bet.github.io/articles.html</loc>
@@ -17,14 +16,12 @@
     <priority>0.90</priority>
   </url>
 
-
   <url>
     <loc>https://enzo-bet.github.io/about.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
-
 
   <url>
     <loc>https://enzo-bet.github.io/contact.html</loc>
@@ -33,7 +30,6 @@
     <priority>0.50</priority>
   </url>
 
-
   <url>
     <loc>https://enzo-bet.github.io/privacy.html</loc>
     <lastmod>2026-07-17</lastmod>
@@ -41,13 +37,11 @@
     <priority>0.40</priority>
   </url>
 
-
   <url>
     <loc>https://enzo-bet.github.io/sources.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
-
 
 </urlset>
