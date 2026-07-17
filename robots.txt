@@ -1,4 +1,8 @@
 User-agent: *
+
 Allow: /
+
+Disallow: /private/
+Disallow: /admin/
 
 Sitemap: https://enzo-bet.github.io/sitemap.xml
